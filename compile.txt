@@ -1,0 +1,1 @@
+gcc -std=c11 -Wall -g -fstack-protector-all ass3.c -o ass3_compiled
